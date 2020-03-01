@@ -1,4 +1,4 @@
-package com.example.coordinatorlayouttablayout2
+package com.example.coordinatorlayouttablayout3
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.coordinatorlayouttablayout3.R
 import kotlinx.android.synthetic.main.fragment_view_pager.*
 
 /**

@@ -1,10 +1,9 @@
-package com.example.coordinatorlayouttablayout2
+package com.example.coordinatorlayouttablayout3
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.coordinatorlayouttablayout3.R
 import kotlinx.android.synthetic.main.recycler_item.view.*
 
 

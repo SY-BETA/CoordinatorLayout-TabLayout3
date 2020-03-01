@@ -3,8 +3,8 @@ package com.example.coordinatorlayouttablayout3
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.example.coordinatorlayouttablayout2.ViewPagerAdapter
-import com.example.coordinatorlayouttablayout2.ViewPagerFragment
+import com.example.coordinatorlayouttablayout3.ViewPagerAdapter
+import com.example.coordinatorlayouttablayout3.ViewPagerFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
